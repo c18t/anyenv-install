@@ -1,1 +1,1 @@
-install_env https://github.com/talentdeficit/erlenv.git
+install_env https://github.com/c18t/erlenv.git develop

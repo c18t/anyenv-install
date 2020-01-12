@@ -1,2 +1,2 @@
 install_env https://github.com/tokuhirom/plenv.git
-install_plugin perl-build https://github.com/tokuhirom/Perl-Build.git
+install_plugin perl-build https://github.com/c18t/Perl-Build.git my_patch
